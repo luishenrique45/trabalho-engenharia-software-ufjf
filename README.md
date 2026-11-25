@@ -2,6 +2,9 @@
 
 Sistema desenvolvido para o Trabalho Prático da disciplina **DCC061 – Engenharia de Software** da **Universidade Federal de Juiz de Fora (UFJF)**.
 * **Docente:** Prof. Dr. Fabrício Martins Mendonça
+* **Alunos:**
+  * Luis Henrique Lago Farias (202565205AB)
+  * Ryan Carlos dos Reis Moreira (202265089AB)
 * **Temas Centrais Abordados:** Arquitetura de Software & Testes e Qualidade de Software
 
 ---
